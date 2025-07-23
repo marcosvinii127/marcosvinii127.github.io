@@ -185,7 +185,7 @@ justify-content: center;
 .experiencias {
   display: flex; /* Faz com que as seÃ§Ãµes (.formacao e .experiencia) fiquem lado a lado */
   flex-wrap: wrap; /* Permite que as seÃ§Ãµes quebrem para a prÃ³xima linha em telas menores */
-  background-color: gray; /* Define a cor de fundo como cinza */
+  background-color: rgb(104, 155, 146); /* Define a cor de fundo como cinza */
   padding: 60px 80px; /* Adiciona espaÃ§amento interno: 60px em cima/baixo, 80px nas laterais */
   gap: 40px; /* Adiciona um espaÃ§amento de 40 pixels entre as seÃ§Ãµes */
 }
