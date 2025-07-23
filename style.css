@@ -64,7 +64,7 @@ justify-content: center;
   place-items: center; /* Centraliza o Ã­cone tanto vertical quanto horizontalmente */
   text-decoration: none; /* Remove o sublinhado padrÃ£o dos links */
   color: rgb(96, 134, 101); /* Define a cor do Ã­cone como cinza */
-  border: 1.6px solid rgb(97, 141, 117); /* Adiciona uma borda de 1.6 pixels, sÃ³lida e cinza */
+  border: 3px solid rgb(98, 141, 97); /* Adiciona uma borda de 1.6 pixels, sÃ³lida e cinza */
   font-size: 1.5rem; /* Define o tamanho do Ã­cone */
   border-radius: 50%; /* Faz a borda ser um cÃ­rculo perfeito */
   padding: 0.39rem; /* Adiciona um espaÃ§amento interno (acolchoamento) ao redor do Ã­cone */
