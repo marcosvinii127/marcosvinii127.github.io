@@ -126,7 +126,7 @@ justify-content: center;
   display: flex; /* Faz com que as seÃ§Ãµes (.sobre-mim e .habilidades) fiquem lado a lado */
   flex-wrap: wrap; /* Permite que as seÃ§Ãµes quebrem para a prÃ³xima linha em telas menores */
   background-color: #5fa39e; /* Define a cor de fundo como branco */
-  padding: 60px 80px; /* Adiciona espaÃ§amento interno: 60px em cima/baixo, 80px nas laterais */
+  padding: 100px 90px; /* Adiciona espaÃ§amento interno: 60px em cima/baixo, 80px nas laterais */
   gap: 40px; /* Adiciona um espaÃ§amento de 40 pixels entre as seÃ§Ãµes */
 }
 
