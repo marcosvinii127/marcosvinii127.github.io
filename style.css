@@ -74,7 +74,7 @@ justify-content: center;
 /* Estilos quando o mouse passa por cima de um link de rede social */
 .social a:hover {
   color: #548684; /* Muda a cor do Ã­cone para um cinza mais escuro */
-  background-color: gray; /* Muda a cor de fundo do cÃ­rculo para cinza */
+  background-color: rgb(93, 133, 111); /* Muda a cor de fundo do cÃ­rculo para cinza */
 }
 
 /* --- Media Queries: Estilos para telas menores (smartphones e tablets) --- */
