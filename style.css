@@ -139,7 +139,7 @@ justify-content: center;
 
 /* Estilos para a linha divisÃ³ria abaixo dos tÃ­tulos das seÃ§Ãµes */
 .linha {
-  width: 60px; /* Define a largura da linha como 60 pixels */
+  width: 100px; /* Define a largura da linha como 60 pixels */
   height: 4px; /* Define a altura da linha como 4 pixels */
   background-color: black; /* Define a cor de fundo da linha como preto */
   margin-bottom: 20px; /* Adiciona uma margem de 20 pixels abaixo da linha */
