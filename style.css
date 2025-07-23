@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgb(99, 138, 138);
+    background-color: rgb(65, 226, 226);
 
 }
 
@@ -12,8 +12,14 @@ body {
 
 .foto {
     flex: 1;
-    background-color: rgb(99, 138, 138);
+    background-color: rgb(65, 226, 226);
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.foto img{
+    width: 301px;
+    height: auto;
+    border-radius: 8px;
 }
