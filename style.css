@@ -175,7 +175,7 @@ justify-content: center;
 
 /* Estilos para o marcador de check (âœ”) antes de cada item de habilidade */
 .habilidades li::before {
-  content: ""; /* Insere o caractere de check (âœ”) antes do texto */
+  content: "✔"; /* Insere o caractere de check (âœ”) antes do texto */
   position: absolute; /* Posiciona o check de forma absoluta em relaÃ§Ã£o ao seu pai (.habilidades li) */
   left: 0; /* Alinha o check na borda esquerda do item */
   color: black; /* Define a cor do check como preto */
