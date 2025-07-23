@@ -12,7 +12,7 @@ body {
 
 .foto {
     flex: 1;
-    background-color: rgb82, 185, 185);
+    background-color: rgb(82, 185, 185);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -155,7 +155,7 @@ justify-content: center;
 /* Estilos para os tÃ­tulos h2 dentro das seÃ§Ãµes "Sobre mim" e "Habilidades" */
 .sobre-mim h2, .habilidades h2 {
   font-size: 32px; /* Define o tamanho da fonte como 32 pixels */
-  color: gray; /* Define a cor do texto como cinza */
+  color: rgb(255, 255, 255); /* Define a cor do texto como cinza */
   margin-bottom: 10px; /* Adiciona uma margem de 10 pixels abaixo do tÃ­tulo */
 }
 
@@ -175,7 +175,7 @@ justify-content: center;
 
 /* Estilos para o marcador de check (âœ”) antes de cada item de habilidade */
 .habilidades li::before {
-  content: "âœ”"; /* Insere o caractere de check (âœ”) antes do texto */
+  content: ""; /* Insere o caractere de check (âœ”) antes do texto */
   position: absolute; /* Posiciona o check de forma absoluta em relaÃ§Ã£o ao seu pai (.habilidades li) */
   left: 0; /* Alinha o check na borda esquerda do item */
   color: black; /* Define a cor do check como preto */
