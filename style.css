@@ -94,7 +94,7 @@ justify-content: center;
 
   /* Muda a cor de fundo da seÃ§Ã£o de inÃ­cio em telas menores (do cinza para #F4DECB) */
   .inicio{
-      background-color: rgb(82, 185, 185);
+      background: rgb(82, 185, 185);
   }
 
   /* Reduz o espaÃ§amento interno destas seÃ§Ãµes em telas menores */
