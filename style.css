@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(99, 138, 138);
+
+}
+
+.inicio {
+    display: flex;
+    height: 100vh;
+}
+
+.foto {
+    flex: 1;
+    background-color: rgb(99, 138, 138);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
